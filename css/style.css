@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Leckerli+One|Open+Sans:300,400|Roboto:300,400,500,700&subset=latin-ext');
+
+
+
+
+/*    font-family: 'Leckerli One', cursive;
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Roboto', sans-serif;*/
+
+img{
+    max-width: 100%;
+}
+html{
+    font-size: 14px;
+}
+.navbar-brand{
+    font-size: 28px;
+    color: #E84C3D;
+    font-family: 'Leckerli One', cursive;
+}
+.navbar-light .navbar-brand {
+
+    color: #E84C3D;
+
+}
+.navbar-light .navbar-toggler {
+    border-color: #E84C3D;
+    color: red;
+}
+.navbar-light .navbar-toggler-icon {
+
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(232,67,61)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+
+}
